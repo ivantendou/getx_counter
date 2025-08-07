@@ -5,4 +5,5 @@ class CounterController extends GetxController {
   void increment() {
     count++;
   }
+  // differen
 }
