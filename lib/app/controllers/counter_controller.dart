@@ -5,5 +5,5 @@ class CounterController extends GetxController {
   void increment() {
     count++;
   }
-  // different
+  // different 1
 }
